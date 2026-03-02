@@ -1,7 +1,7 @@
 # Brainrot.app
 Un repo avec des apps brainrot pour macOS 
 
-Créer à cause une blague avec un mec random
+Créer à cause d'une blague d'un mec random
 
 Les icônes sont toutes créées à partir d'Apple Icon Composer
 
